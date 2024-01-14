@@ -1,13 +1,13 @@
-# RAASS
-This is an indoor navigation system; this is an android application which helps user to locate desired destination in a just one click making there life much easier.
+## # **RAASS - The Indoor Navigation System 2023**
+> Revolutionizing indoor navigation, our Unity-based system, utilizing NavMesh technology, offers a cost-effective solution without additional financial commitments. Providing dynamic, real-time navigation, users experience seamless and efficient guidance through complex indoor spaces.
 
+> Built with scalability in mind, the system adapts to diverse indoor environments, ensuring a consistent and responsive navigation experience. With a user-friendly interface, it prioritizes accuracy, empowering users to effortlessly navigate intricate structures.
 
+> This affordable solution, developed with Unity's cross-platform compatibility, guarantees a reliable experience across various devices. Access precise directions and optimized routes, making it an ideal choice for businesses seeking to enhance indoor navigation experiences.
+>
+> #### Sample Screenshots:
+###### executing within my collage premises-
+![in1](https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/8020cc73-887a-4d96-a144-cc9bb00ac9e1) ![in2](https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/6937f75f-a1bf-4c76-85e1-67450fea98a0)
+![in3](https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/4941ffe0-c016-4979-8ab9-5610d4555574)
 
-#Asset
-The application is made with unity engine;
-to add the project into unity must import the unity asset file with all the dependency.
-
-
-![Screenshot_2023-04-24-15-46-37-693_com DefaultCompany IndoorNavTest](https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/13cdc7e0-0428-43a3-ad7c-2344f0945f58)
-![Screenshot_2023-04-24-15-46-34-719_com DefaultCompany IndoorNavTest](https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/01a74aad-91e1-4e43-9301-77ac0c959ca9)
-![Screenshot_2023-04-24-15-46-20-736_com DefaultCompany IndoorNavTest](https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/cf63bf8c-e397-4303-879b-dee16f8e5711)
+###### MongoDb Database-
