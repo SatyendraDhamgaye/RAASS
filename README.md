@@ -12,4 +12,23 @@
 ###### Video Sample-
 https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/79765d4e-37a4-46d1-bfa8-467947dfc601
 
+1. Cost-Effective Development:
+> Our indoor navigation system is designed with a development-centric approach, minimizing financial investment while delivering a robust solution.
 
+5. Unity Integration:
+> Leveraging Unity's versatile platform, the system ensures cross-platform compatibility, allowing users to access seamless navigation experiences across different devices.
+
+9. Scalability and Adaptability:
+> Built to scale, the system adapts effortlessly to diverse indoor settings, making it suitable for various environments such as shopping malls, office buildings, and complex structures.
+
+13. User-Friendly Interface:
+> The intuitive interface prioritizes user experience, providing accurate directions, points of interest, and optimized routes, ensuring ease of use for all users.
+
+17. Real-Time Navigation:
+> Users experience real-time navigation updates, allowing them to navigate through indoor spaces with dynamic and responsive guidance.
+
+21. Points of Interest Integration:
+> Seamlessly integrates points of interest, enhancing the user experience by providing additional information about relevant locations within the indoor space.
+
+25. Efficient Route Planning:
+> The system optimizes route planning, offering users the most efficient paths to their destinations within indoor environments.
