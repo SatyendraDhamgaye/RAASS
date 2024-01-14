@@ -7,8 +7,7 @@
 >
 > #### Sample Screenshots:
 ###### executing within my collage premises-
-<img src="https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/8020cc73-887a-4d96-a144-cc9bb00ac9e1" width="200" height="400">
-![in1](https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/8020cc73-887a-4d96-a144-cc9bb00ac9e1) ![in2](https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/6937f75f-a1bf-4c76-85e1-67450fea98a0)
-![in3](https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/4941ffe0-c016-4979-8ab9-5610d4555574)
+&emsp;<img src="https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/8020cc73-887a-4d96-a144-cc9bb00ac9e1" width="200" height="400">&emsp;<img src="[https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/8020cc73-887a-4d96-a144-cc9bb00ac9e1](https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/6937f75f-a1bf-4c76-85e1-67450fea98a0)" width="200" height="400">&emsp;<img src="[https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/8020cc73-887a-4d96-a144-cc9bb00ac9e1](https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/4941ffe0-c016-4979-8ab9-5610d4555574)" width="200" height="400">
+
 
 ###### MongoDb Database-
