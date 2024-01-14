@@ -10,8 +10,6 @@
 &emsp;<img src="https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/8020cc73-887a-4d96-a144-cc9bb00ac9e1" width="200" height="400">&emsp;<img src="https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/3a7b8304-dc71-43df-9354-21ff0c538e03" width="200" height="400">&emsp;<img src="https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/0ebce7b2-97c8-4e42-b4e0-7579b3a26a8e" width="200" height="400">
 
 ###### Video Sample-
+&emsp;<img src="https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/79765d4e-37a4-46d1-bfa8-467947dfc601" width="200" height="400">
 
-
-
-https://github.com/SatyendraDhamgaye/RAASS/assets/112928058/79765d4e-37a4-46d1-bfa8-467947dfc601
 
